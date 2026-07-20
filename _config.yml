@@ -22,14 +22,14 @@ repository               : "mirandagoldstein/mirandagoldstein.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "IMG_0549.jpeg"
+  name             : "Miranda Goldstein"
+  pronouns         : "she/her"  
+  bio              : "PhD Student in Human Development in Context, UC Irvine"
+  location         : "Irvine, CA"
+  employer         : "University of California, Irvine"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mggoldst@uci.edu" 
 
   # Academic websites
   academia         : # URL
