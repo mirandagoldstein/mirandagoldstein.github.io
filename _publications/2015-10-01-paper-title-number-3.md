@@ -2,7 +2,7 @@
 title: "What is success? Understanding and addressing evaluation challenges faced by transdisciplinary teams when developing interventions."
 collection: publications
 category: manuscripts
-permalink: /publication/2026-04-10-grading-review
+permalink: /publication/2026-05-01-success-paper
 date: 2026-05-01
 venue: 'Humanities and Social Sciences Communications'
 paperurl: 'https://www.nature.com/articles/s41599-026-07708-9'
