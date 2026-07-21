@@ -56,7 +56,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "mggoldst.bksy.social" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,6 +65,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "linkedin.com/in/miranda-goldstein-7a8b72165"
+  bluesky          : "mggoldst.bksy.social" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
