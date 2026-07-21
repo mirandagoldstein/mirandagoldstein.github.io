@@ -22,7 +22,7 @@ repository               : "mirandagoldstein/mirandagoldstein.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ".jpeg"
+  avatar           : "IMG_0549.jpeg"
   name             : "Miranda Goldstein"
   pronouns         : # she/her 
   bio              : "PhD Student in Human Development in Context, UC Irvine"
